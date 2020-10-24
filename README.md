@@ -1,7 +1,7 @@
 # mouse_battery_reporter
 ### A Bash one-liner to report the battery percentage of your bluetooth mouse
 
-Check the contents of the mb.sh file. Add the contents to your bash profile (```.bashrc``` on Fedora) and close your shell.
+Check the contents of the mb.sh file. Add the contents to your bash profile (```.bashrc``` on Fedora).
 
 Before using this script, you'll want to install ```upower```. You can run ```sudo dnf install upower``` to install this on RedHat based systems.
 
