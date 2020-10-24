@@ -1,5 +1,5 @@
 # mouse_battery_reporter
-### A Bash one-liner to report the percentage of your bluetooth mouse
+### A Bash one-liner to report the battery percentage of your bluetooth mouse
 
 Check the contents of the mb.sh file. Add the contents to your bash profile (```.bashrc``` on Fedora) and close your shell.
 
